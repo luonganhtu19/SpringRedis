@@ -1,4 +1,4 @@
-package com.example.redisbase;
+package com.example.redisbase.controller;
 
 import com.example.redisbase.dto.AddUserDTO;
 import com.example.redisbase.dto.AuthUserDTO;
